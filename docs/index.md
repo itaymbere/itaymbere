@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Itambere GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/itaymbere/itaymbere/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
